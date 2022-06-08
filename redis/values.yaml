@@ -1,0 +1,5 @@
+auth:
+  password: s3cr3t-p4ss
+  
+replica:
+  replicaCount: 1
